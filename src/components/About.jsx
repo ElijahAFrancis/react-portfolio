@@ -1,5 +1,5 @@
-import '../styles/About.css'
 import profilePicture from '../assets/images/profile-picture.jpg'
+import '../styles/About.css'
 
 export default function About() {
   

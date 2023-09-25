@@ -1,6 +1,8 @@
 import Nav from './components/Nav';
 import About from './components/About';
 import Portfolio from './components/Portfolio';
+import Contact from './components/Contact';
+import Resume from './components/Resume';
 
 function App() {
   return (
@@ -8,6 +10,8 @@ function App() {
       <Nav />
       <About />
       <Portfolio />
+      <Contact />
+      <Resume />
     </div>
   )
 }

@@ -1,12 +1,12 @@
-import '../styles/Portfolio.css'
 import spacebook from '../assets/images/spacebook.png'
 import movieTracker from '../assets/images/movie-tracker.png'
 import filler from '../assets/images/Townscaper 2022-06-22 12-11-51.png'
+import '../styles/Portfolio.css'
 
 export default function Portfolio() {
   
     return (
-        <section id="work">
+        <section id="portfolio">
             <h3>My Work</h3>
             <div class="projects">
                 <section class="card" id="firstCard">

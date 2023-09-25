@@ -1,0 +1,21 @@
+#contact ul {
+    display: flex;
+    justify-content: center;
+    margin: 2%;
+    list-style: none;
+}
+
+#contact li {
+    padding: 1rem;
+}
+
+#contact a {
+    margin: 2%;
+    color: var(--primary);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#contact a:hover {
+    color: var(--secondary);
+}
