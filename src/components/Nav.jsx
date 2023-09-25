@@ -1,36 +1,29 @@
+import { Link } from 'react-router-dom';
+import Navbar from './UI/Navbar';
 import '../styles/Nav.css'
 
 export default function Nav() {
-    const linkStyle = { border: '1px black', padding: '5px' };
   
     return (
-    <header>
-      <h1>Elijah Francis</h1>
-      <nav className="main-header-menu">
-        <ul
-          style={{
-            display: 'flex',
-            fontFamily: 'helvetica',
-            flexDirection: 'row',
-            alignItems: 'flex-start',
-            justifyContent: 'flex-start',
-          }}
-        >
-          <li style={linkStyle}>
-            <a href="#about">About Me</a>
-          </li>
-          <li style={linkStyle}>
-            <a href="#portfolio">Portfolio</a>
-          </li>
-          <li style={linkStyle}>
-            <a href="#contact">Contact</a>
-          </li>
-          <li style={linkStyle}>
-            <a href="#resume">Resume</a>
-          </li>
-        </ul>
-      </nav>
-    </header>
+      <header>
+        <h1>Elijah Francis</h1>
+        <Navbar
+        links={[
+          <Link key={1} to="/">
+            About
+          </Link>,
+          <Link key={2} to="/portfolio">
+            Portfolio
+          </Link>,
+          <Link key={3} to="/resume">
+            Resume
+          </Link>,
+          <Link key={4} to="/contact">
+            Contact
+          </Link>,
+        ]}
+      />
+   </header>
     );
 }
   

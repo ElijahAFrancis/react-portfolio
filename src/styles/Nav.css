@@ -9,7 +9,7 @@ header {
     min-width: 100%;
   }
   
-  nav {
+nav {
     background-color: var(--dark-grey);
     display: flex;
     flex-wrap: wrap;
@@ -17,7 +17,7 @@ header {
     padding-right: 1%;
   }
   
-  nav ul {
+nav ul {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -25,7 +25,7 @@ header {
     list-style: none;
   }
   
-  nav a {
+nav a {
     display: flex;
     background-color: var(--dark-grey);
     color: var(--primary);
@@ -33,6 +33,6 @@ header {
     text-decoration: none;
   }
   
-  nav a:hover {
+nav a:hover {
     color: var(--secondary);
   }

@@ -1,8 +1,28 @@
-# React + Vite
+# REACT portfolio
+  ![License](https://img.shields.io/badge/license-MIT-yellowgreen.svg)
+  ## Table of Contents
+  [Description](#description)
+  [Installation](#installation)
+  [Usage](#usage)
+  [Questions](questions)
+  [License](license)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+  ## Description
+  Updated portfolio that uses react instead of vanilla JS
+  https://elijah-jate-5c9a4472256e.herokuapp.com/
+    <img src='./images/screenshot.png' alt='JATE' />
+  
+  ## Installation
+  none
 
-Currently, two official plugins are available:
+  ## Usage
+  Click through links in the navigation bar to navigate the page. Click on a project image to be taken to that deployed project.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  ## Questions
+  https://github.com/ElijahAFrancis
+  efrancis64@gmail.com
+
+  ## License
+    Licensed under the MIT license
+    https://www.mit.edu/~amini/LICENSE.md
+  
