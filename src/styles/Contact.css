@@ -38,8 +38,13 @@ button {
     border-style: solid;
     border-radius: 1rem;
     border-color: var(--secondary);
-    height: 2rem;
-    width: 5rem;
+    font-size: 1.3rem;
+    height: 3rem;
+    width: 10rem;
     background-color: var(--light-grey);
     color: var(--primary);
+}
+
+button:hover {
+    background-color: var(--dark-grey);
 }

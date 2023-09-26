@@ -9,8 +9,8 @@
 
   ## Description
   Updated portfolio that uses react instead of vanilla JS
-  https://elijah-jate-5c9a4472256e.herokuapp.com/
-    <img src='./images/screenshot.png' alt='JATE' />
+  https://sprightly-croissant-2cd9cc.netlify.app/
+    <img src='./images/screenshot.png' alt='portfolio' />
   
   ## Installation
   none

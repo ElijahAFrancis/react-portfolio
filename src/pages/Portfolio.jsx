@@ -29,6 +29,10 @@ export default function Portfolio() {
                     <h4>Project 5</h4>
                     <a href="https://www.youtube.com/watch?v=iik25wqIuFo" target="_blank"><img src={filler} /></a>
                 </section>
+                <section class="card">
+                    <h4>Project 6</h4>
+                    <a href="https://www.youtube.com/watch?v=iik25wqIuFo" target="_blank"><img src={filler} /></a>
+                </section>
             </div>
         </section>
     );

@@ -34,8 +34,3 @@
     opacity: .75;
     transition: .2s;
 }
-
-/* making first project card larger */
-#firstCard {
-    min-width: 100%;
-}
