@@ -9,7 +9,7 @@
 
   ## Description
   Updated portfolio that uses react instead of vanilla JS
-  https://sprightly-croissant-2cd9cc.netlify.app/
+  https://elijah-francis.netlify.app/
     <img src='./images/screenshot.png' alt='portfolio' />
   
   ## Installation
