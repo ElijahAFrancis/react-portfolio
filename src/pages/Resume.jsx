@@ -1,4 +1,4 @@
-import Resume from '../assets/images/resume1024_1.jpg'
+import Resume from '../assets/images/resume-2024-image.jpg'
 import '../styles/Resume.css'
 
 export default function Contact() {
